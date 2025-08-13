@@ -9,6 +9,10 @@ numpy>=1.21.0
 spotipy>=2.20.0
 flask>=2.0.0
 requests>=2.25.0
+python-dotenv>=1.0.0
+
+# Audio Processing
+soundfile>=0.10.0
 
 # Development
 jupyter>=1.0.0
